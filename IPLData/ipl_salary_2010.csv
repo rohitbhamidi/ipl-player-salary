@@ -1,0 +1,73 @@
+Player,Team,Salary,Color,Player,Team
+2010,,$0,0,,
+Deccan Chargers,2010,$0,0,,
+Royal Challengers Bangalore,2010,$0,0,,
+Kings XI Punjab,2010,$0,0,,
+Mumbai Indians,2010,$0,0,,
+Kolkata Knight Riders,2010,$0,0,,
+Rajasthan Royals,2010,$0,0,,
+Delhi Daredevils,2010,$0,0,,
+Chennai Super Kings,2010,$0,0,,
+GJ Bailey,Chennai Super Kings,"$50,000","50,000",GJ Bailey,Chennai Super Kings
+JA Morkel,Chennai Super Kings,"$675,000","675,000",JA Morkel,Chennai Super Kings
+JM Kemp,Chennai Super Kings,"$100,000","100,000",JM Kemp,Chennai Super Kings
+Joginder Sharma,Chennai Super Kings,"$225,000","225,000",Joginder Sharma,Chennai Super Kings
+M Muralitharan,Chennai Super Kings,"$600,000","600,000",M Muralitharan,Chennai Super Kings
+MEK Hussey,Chennai Super Kings,"$250,000","250,000",MEK Hussey,Chennai Super Kings
+ML Hayden,Chennai Super Kings,"$375,000","375,000",ML Hayden,Chennai Super Kings
+MS Dhoni,Chennai Super Kings,"$1,500,000","1,500,000",MS Dhoni,Chennai Super Kings
+PA Patel,Chennai Super Kings,"$325,000","325,000",PA Patel,Chennai Super Kings
+SK Raina,Chennai Super Kings,"$650,000","650,000",SK Raina,Chennai Super Kings
+T Thushara,Chennai Super Kings,"$140,000","140,000",T Thushara,Chennai Super Kings
+A Symonds,Deccan Chargers,"$1,350,000","1,350,000",A Symonds,Deccan Chargers
+AC Gilchrist,Deccan Chargers,"$700,000","700,000",AC Gilchrist,Deccan Chargers
+DR Smith,Deccan Chargers,"$100,000","100,000",DR Smith,Deccan Chargers
+HH Gibbs,Deccan Chargers,"$575,000","575,000",HH Gibbs,Deccan Chargers
+KAJ Roach,Deccan Chargers,"$720,000","720,000",KAJ Roach,Deccan Chargers
+RG Sharma,Deccan Chargers,"$750,000","750,000",RG Sharma,Deccan Chargers
+RP Singh,Deccan Chargers,"$875,000","875,000",RP Singh,Deccan Chargers
+VVS Laxman,Deccan Chargers,"$375,000","375,000",VVS Laxman,Deccan Chargers
+WPUJC Vaas,Deccan Chargers,"$200,000","200,000",WPUJC Vaas,Deccan Chargers
+AB de Villiers,Delhi Daredevils,"$300,000","300,000",AB de Villiers,Delhi Daredevils
+G Gambhir,Delhi Daredevils,"$725,000","725,000",G Gambhir,Delhi Daredevils
+KD Karthik,Delhi Daredevils,"$525,000","525,000",KD Karthik,Delhi Daredevils
+MF Maharoof,Delhi Daredevils,"$225,000","225,000",MF Maharoof,Delhi Daredevils
+TM Dilshan,Delhi Daredevils,"$250,000","250,000",TM Dilshan,Delhi Daredevils
+B Lee,Kings XI Punjab,"$900,000","900,000",B Lee,Kings XI Punjab
+DPMD Jayawardene,Kings XI Punjab,"$475,000","475,000",DPMD Jayawardene,Kings XI Punjab
+IK Pathan,Kings XI Punjab,"$925,000","925,000",IK Pathan,Kings XI Punjab
+KC Sangakkara,Kings XI Punjab,"$700,000","700,000",KC Sangakkara,Kings XI Punjab
+M Kaif,Kings XI Punjab,"$250,000","250,000",M Kaif,Kings XI Punjab
+PP Chawla,Kings XI Punjab,"$400,000","400,000",PP Chawla,Kings XI Punjab
+RR Powar,Kings XI Punjab,"$170,000","170,000",RR Powar,Kings XI Punjab
+RS Bopara,Kings XI Punjab,"$450,000","450,000",RS Bopara,Kings XI Punjab
+S Sreesanth,Kings XI Punjab,"$625,000","625,000",S Sreesanth,Kings XI Punjab
+YA Abdulla,Kings XI Punjab,"$50,000","50,000",YA Abdulla,Kings XI Punjab
+AB Agarkar,Kolkata Knight Riders,"$350,000","350,000",AB Agarkar,Kolkata Knight Riders
+BB McCullum,Kolkata Knight Riders,"$700,000","700,000",BB McCullum,Kolkata Knight Riders
+DJ Hussey,Kolkata Knight Riders,"$625,000","625,000",DJ Hussey,Kolkata Knight Riders
+I Sharma,Kolkata Knight Riders,"$950,000","950,000",I Sharma,Kolkata Knight Riders
+M Kartik,Kolkata Knight Riders,"$425,000","425,000",M Kartik,Kolkata Knight Riders
+MK Tiwary,Kolkata Knight Riders,"$675,000","675,000",MK Tiwary,Kolkata Knight Riders
+SE Bond,Kolkata Knight Riders,"$750,000","750,000",SE Bond,Kolkata Knight Riders
+CRD Fernando,Mumbai Indians,"$150,000","150,000",CRD Fernando,Mumbai Indians
+Harbhajan Singh,Mumbai Indians,"$850,000","850,000",Harbhajan Singh,Mumbai Indians
+JP Duminy,Mumbai Indians,"$950,000","950,000",JP Duminy,Mumbai Indians
+KA Pollard,Mumbai Indians,"$750,000","750,000",KA Pollard,Mumbai Indians
+ST Jayasuriya,Mumbai Indians,"$975,000","975,000",ST Jayasuriya,Mumbai Indians
+Z Khan,Mumbai Indians,"$450,000","450,000",Z Khan,Mumbai Indians
+AC Voges,Rajasthan Royals,"$50,000","50,000",AC Voges,Rajasthan Royals
+DR Martyn,Rajasthan Royals,"$100,000","100,000",DR Martyn,Rajasthan Royals
+GC Smith,Rajasthan Royals,"$250,000","250,000",GC Smith,Rajasthan Royals
+MM Patel,Rajasthan Royals,"$275,000","275,000",MM Patel,Rajasthan Royals
+SK Warne,Rajasthan Royals,"$450,000","450,000",SK Warne,Rajasthan Royals
+SR Watson,Rajasthan Royals,"$125,000","125,000",SR Watson,Rajasthan Royals
+YK Pathan,Rajasthan Royals,"$475,000","475,000",YK Pathan,Rajasthan Royals
+A Kumble,Royal Challengers Bangalore,"$500,000","500,000",A Kumble,Royal Challengers Bangalore
+CL White,Royal Challengers Bangalore,"$500,000","500,000",CL White,Royal Challengers Bangalore
+DW Steyn,Royal Challengers Bangalore,"$325,000","325,000",DW Steyn,Royal Challengers Bangalore
+EJG Morgan,Royal Challengers Bangalore,"$220,000","220,000",EJG Morgan,Royal Challengers Bangalore
+JH Kallis,Royal Challengers Bangalore,"$900,000","900,000",JH Kallis,Royal Challengers Bangalore
+KP Pietersen,Royal Challengers Bangalore,"$1,550,000","1,550,000",KP Pietersen,Royal Challengers Bangalore
+MV Boucher,Royal Challengers Bangalore,"$450,000","450,000",MV Boucher,Royal Challengers Bangalore
+RV Uthappa,Royal Challengers Bangalore,"$800,000","800,000",RV Uthappa,Royal Challengers Bangalore
