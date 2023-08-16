@@ -1,0 +1,9 @@
+{
+    "best_params": {
+        "C": 1,
+        "epsilon": 0.01,
+        "kernel": "rbf"
+    },
+    "r2_svr_tuned": 0.6850685605454753,
+    "mae_svr_tuned": 0.24330655144424582
+}
