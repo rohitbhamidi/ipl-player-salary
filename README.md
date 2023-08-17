@@ -31,9 +31,8 @@ For bowlers, the following features were engineered:
 10. **4s**: Total number of boundaries (4 runs) conceded by the bowler.
 11. **6s**: Total number of sixes (6 runs) conceded by the bowler.
 
-The player-match interaction was investigated, leading to the creation of merged datasets capturing detailed batting and bowling features.
-
 ## 2. EDA
+The target variable for my analysis was the next-year salary for each player. The initial hypothesis was that the biggest determining factor of a player's next-year salary was the player's current salary. The following graph corroborated that hypothesis:
 
 ## 3. Preprocessing and Training
 
