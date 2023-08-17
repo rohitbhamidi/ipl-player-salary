@@ -1,9 +1,9 @@
 {
     "best_params": {
-        "C": 10,
+        "C": 1,
         "epsilon": 0.01,
         "kernel": "linear"
     },
-    "r2_svr_tuned": 0.7867119704831601,
-    "mae_svr_tuned": 0.18062057037855875
+    "r2_svr_tuned": 0.6529542274219342,
+    "mae_svr_tuned": 0.2649401171887923
 }
