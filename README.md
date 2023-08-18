@@ -1,4 +1,4 @@
-# **Capstone 2 Project Report: Predictive Modeling of IPL Player Salary**
+# **Project Report: Predictive Modeling of IPL Player Salary**
 
 # **Problem Statement**
 The Indian Premier League (IPL) has become a global cricket phenomenon since its inception in 2008, driving growth in player salaries. This project will develop a Machine Learning model to predict the player salary based on statistical aggregate features. In doing so, I will develop a framework for the IPL franchises to make more informed decisions during player auctions on the expected salary of the players.
